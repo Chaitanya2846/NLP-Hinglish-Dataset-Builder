@@ -1,0 +1,10 @@
+{
+  "max_comments_per_video": 500,
+  "include_replies": false,
+  "text_format": "plainText",
+  "order": "time",
+  "request_delay_seconds": 0.2,
+  "max_retries": 5,
+  "output_csv": "data/raw/youtube_comments_raw.csv",
+  "output_json": "data/raw/youtube_comments_raw.json"
+}

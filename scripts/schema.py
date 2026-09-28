@@ -1,0 +1,17 @@
+RAW_COLUMNS = [
+    "run_id",
+    "scraped_at",
+    "video_id",
+    "video_title",
+    "channel_title",
+    "category",
+    "search_query",
+    "comment_id",
+    "parent_comment_id",
+    "comment_type",
+    "text",
+    "like_count",
+    "reply_count",
+    "published_at",
+    "updated_at",
+]

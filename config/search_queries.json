@@ -1,0 +1,24 @@
+{
+  "queries": [
+    {
+      "query": "Indian college vlog",
+      "category": "college"
+    },
+    {
+      "query": "Indian tech review",
+      "category": "technology"
+    },
+    {
+      "query": "Indian gaming",
+      "category": "gaming"
+    },
+    {
+      "query": "Indian movie review",
+      "category": "movies"
+    },
+    {
+      "query": "Indian student life",
+      "category": "vlogs"
+    }
+  ]
+}
